@@ -34,17 +34,4 @@ It serves as a complete reference for my learning journey, including theory, pra
 - **University**: SLIIT University 🎓  
 - **Module**: AI & Machine Learning – Stage 2  
 - **Year**: 2025  
-- **Instructor**: _(Add your lecturer’s name if you want)_  
 
-## 🏆 About Me  
-Hi, I'm **Osagani Perera** 👩‍💻  
-A passionate **Computer Science Undergraduate** at **NSBM Green University** exploring **AI, ML, and Full-Stack Development**.  
-I love solving problems, building projects, and sharing my learning journey.  
-
-📫 **Email**: sanjulakalpani1212@gmail.com  
-🌐 **GitHub**: [osagani31](https://github.com/osagani31)  
-💼 **LinkedIn**: [Click Here](https://linkedin.com/in/osagani-perera) _(optional)_  
-
----
-
-⭐ If you find this repository helpful, don’t forget to **star** it!  

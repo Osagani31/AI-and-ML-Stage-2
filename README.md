@@ -1,7 +1,5 @@
 # 🤖 AI & Machine Learning – Stage 2 | SLIIT University
 
-![AI & ML Banner](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/1233721680_ai-machinelearning-banner.jpg)
-
 ## 📌 Overview  
 This repository contains my **course materials, assignments, labs, and projects** from the **AI & Machine Learning Stage 2** module offered by **SLIIT University**.  
 It serves as a complete reference for my learning journey, including theory, practical exercises, and real-world applications.
